@@ -1,0 +1,48 @@
+/* Menu bar items */
+menubar menuitem label {
+  font-size: 14px;
+}
+
+/* Dropdown menu items */
+menu menuitem label {
+  font-size: 14px;
+}
+
+/* Menu item keyboard shortcuts */
+menu menuitem accelerator {
+  font-size: 14px;
+}
+
+/* Side panel dropdown (Places/Directory Tree switcher) */
+combobox {
+  font-size: 14px;
+}
+
+/* Input boxes */
+entry {
+  font-size: 14px;
+}
+
+/* Dialog labels and buttons */
+label {
+  font-size: 14px;
+}
+
+button label {
+  font-size: 14px;
+}
+
+/* Details view list items */
+treeview {
+  font-size: 14px;
+}
+
+/* Details view column headers */
+treeview header button label {
+  font-size: 14px;
+}
+
+/* Main interface text */
+* {
+  font-size: 15px;
+}
